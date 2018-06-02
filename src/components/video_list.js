@@ -11,6 +11,6 @@ const videoItems = props.videos.map((video) => {
       {videoItems}
     </ul>
   );
-}
+};
 
-export default VideoList
+export default VideoList;
